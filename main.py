@@ -1,8 +1,7 @@
 
 # test
 
-
-
+print("init")
 
 
 
